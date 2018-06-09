@@ -1,7 +1,7 @@
 int heightSine;
 
 void setup() {
-  size(640, 600);
+  size(640, 800);
   background(0);
   stroke(255);
   noLoop();
